@@ -1,0 +1,19 @@
+{
+  "development": {
+    "username": "jja",
+    "password": null,
+    "database": "gql_starter_db_development_8",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "jja",
+    "password": null,
+    "database": "gql_starter_db_test_5",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "use_env_variable": "DATABASE_URL"
+  }
+}
